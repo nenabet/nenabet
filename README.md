@@ -5,3 +5,6 @@
 
 ### NenaBet, por IgorDuca
 ### Feito com React
+
+### [Instagram da empresa Zé di Nena](instagram.com/zedinenafc)
+### [Instagram do desenvolvedor](instagram.com/igor_ducca)
