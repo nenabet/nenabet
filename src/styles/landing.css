@@ -1,0 +1,32 @@
+body {
+    background: url('https://media.giphy.com/media/WUxmd1cxJSISBwvvgn/giphy.gif');
+    background-size: cover;
+
+    transition: .7s
+}
+
+.inputClicked {
+    width: 500px;
+}
+
+#nextGameButton {
+    background-color: red;
+}
+
+#nextGameButton:enabled:hover {
+    background: url('https://media.giphy.com/media/T9fHnACJJq8Ba/giphy.gif');
+    background-size: 200px;
+    height: 70px;
+    width: 200px;
+}
+
+#nextGameButton:disabled:hover {
+    background-color: gray;
+}
+
+#confirmLeagueButton:enabled:hover {
+    height: 70px;
+    width: 200px;
+    background: url('https://media.giphy.com/media/Bk0CW5frw4qfS/giphy.gif');
+    font-size: 20px;
+}
